@@ -1,0 +1,5 @@
+apiVersion: v2
+name: nginx
+description: A simple Nginx chart for ArgoCD lab
+version: 0.1.0
+appVersion: "1.25"
