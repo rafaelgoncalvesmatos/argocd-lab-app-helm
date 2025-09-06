@@ -14,7 +14,7 @@ spec:
         - values-prd.yaml
   destination:
     server: https://kubernetes.default.svc
-    namespace: dev
+    namespace: prd
   syncPolicy:
     automated:
       prune: true
